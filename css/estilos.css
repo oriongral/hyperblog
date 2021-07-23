@@ -51,15 +51,11 @@ body
     background: white;
     padding: 1em;
 }
-<<<<<<< HEAD
-=======
 
 #footer
 {
-	background: #767;
-	color: white;
-	text-align: center;
-	padding: 1.5em;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
 }
-
->>>>>>> d2f749daf4e86e38828f715eb7623683eb615ef6
